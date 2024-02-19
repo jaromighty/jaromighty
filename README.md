@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-Software Engineer at [SamCart](https://samcart.com)
+I'm Jarom
+
+Software Engineer
 
 - I use daily: **Laravel**, **React**, **TailwindCSS**
 
