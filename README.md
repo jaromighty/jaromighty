@@ -5,6 +5,8 @@ I'm Jarom
 Software Engineer
 
 - I use daily: **Laravel**, **React**, **TailwindCSS**
+- I use sometimes: **Vue**
+- I'm learning: **Ruby on Rails**
 
 <!--
 **jaromighty/jaromighty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
