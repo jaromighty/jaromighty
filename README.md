@@ -4,7 +4,7 @@ I'm Jarom
 
 Software Engineer
 
-- Technologies I like using:
+Technologies I like using:  
   **Laravel**, **React**, **TailwindCSS**, **Vue**, **Ruby on Rails**, **Typescript**
 
 I'm currently looking for a new place to work
