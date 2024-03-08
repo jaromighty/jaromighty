@@ -4,9 +4,10 @@ I'm Jarom
 
 Software Engineer
 
-- I use daily: **Laravel**, **React**, **TailwindCSS**
-- I use sometimes: **Vue**
-- I'm learning: **Ruby on Rails**
+- Technologies I like using:
+  **Laravel**, **React**, **TailwindCSS**, **Vue**, **Ruby on Rails**, **Typescript**
+
+I'm currently looking for a new place to work
 
 <!--
 **jaromighty/jaromighty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
