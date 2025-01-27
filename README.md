@@ -5,9 +5,9 @@ I'm Jarom
 Software Engineer
 
 Technologies I like using:  
-  **Laravel**, **React**, **TailwindCSS**, **Vue**, **Ruby on Rails**, **Typescript**
+  **Laravel**, **React**, **TailwindCSS**, **Vue**, **Typescript**
 
-I'm currently looking for a new place to work
+I'm currently a Senior Software Engineer at Corporate Merch
 
 <!--
 **jaromighty/jaromighty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
