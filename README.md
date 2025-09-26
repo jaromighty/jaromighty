@@ -7,7 +7,9 @@ Software Engineer
 Technologies I like using:  
   **Laravel**, **React**, **TailwindCSS**, **Vue**, **Typescript**
 
+<!--
 I'm currently a Senior Software Engineer at Corporate Merch
+-->
 
 <!--
 **jaromighty/jaromighty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
